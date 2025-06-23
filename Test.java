@@ -1,7 +1,7 @@
 package lab4;
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
-public class OvalTest {
+public class Test {
 	
 @Test
 void CircleTrue() {
